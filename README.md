@@ -4,6 +4,7 @@
 [![Protocol](https://img.shields.io/badge/MCP-2024--11--05-blue)](https://modelcontextprotocol.io)
 [![Payout Rail](https://img.shields.io/badge/payout-USDC%20on%20Base-blue)](https://basescan.org)
 [![Commercial Catalog](https://img.shields.io/badge/catalog-45%20Verified%20Tools-success)](https://github.com/genesiscode2026/genesis-software-catalog)
+[![M8ven Score](https://m8ven.ai/badge/mcp/genesiscode2026/mcp-security-readiness-guide)](https://m8ven.ai/mcp/genesiscode2026/mcp-security-readiness-guide)
 
 > **Standardized security checklist, threat model, and readiness verification standard for Model Context Protocol (MCP) servers.**
 
